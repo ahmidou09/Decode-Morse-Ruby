@@ -1,10 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="https://rysthcraft.netlify.app/img/LOGO-ONLY.svg" alt="logo" width="140"  height="auto" />
-  <br/>
-  <h3><b>John Palacios - RysthCraft</b></h3>
-</div>
 
 # 📗 Table of Contents
 
@@ -26,11 +21,12 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 RUBY Decode Morse <a name="about-project"></a>
+# 📖 Decode-Morse-Ruby <a name="about-project"></a>
 
-**RUBY Decode Morse** ...
+**Decode-Morse-Ruby** ...
 
 ## 🛠 Built With <a name="built-with"></a>
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -41,9 +37,15 @@
   </ul>
 </details>
 
+
 ### Key Features <a name="key-features"></a>
 
-- **Feature 1**
+- **Create a method to decode a Morse code character, takes a string parameter, and return the corresponding character in uppercase**
+
+- **Create a method to decode an entire word in Morse code, takes a string parameter, and return the string representation.**
+
+- **Create a method to decode the entire message in Morse code, takes a string parameter, and return the string representation.**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,8 +62,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/Rysth/RUBY-Decode-Morse.git
-cd RUBY-Decode-Morse
+git clone https://github.com/ahmidou09/Decode-Morse-Ruby.git
+cd Decode-Morse-Ruby
 code . (To open VS Code Editor)
 ```
 
@@ -79,22 +81,22 @@ To run the project, execute the following steps:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **John Palacios**
+👤 **EL MEHDI AHMIDOU**
 
-- GitHub: [@rysthcraft](https://github.com/Rysth)
-- Linkedin: [@johnpalacios](https://www.linkedin.com/in/john-palacios-rysthcraft/)
+- GitHub: [@ahmidou09](https://github.com/ahmidou09)
+- Twitter: [@el_ahmidou](https://twitter.com/el_ahmidou)
+- LinkedIn: [el mehdi ahmidou](https://www.linkedin.com/in/el-mehdi-ahmidou-312590125/)
 
-👤 **Soban Syeed**
+👤 **Javier Jesús Martinez Fariñas**
 
-- GitHub: [@SnakyMz](https://github.com/SnakyMz)
-- Twitter: [@SobanSyeed](https://twitter.com/SobanSyeed)
-- LinkedIn: [Soban Syeed](https://www.linkedin.com/in/soban-syeed-82985b241/)
+- GitHub: [@jlcarrascof](https://github.com/jlcarrascof)
+- Twitter: [@javiersistemas](https://twitter.com/javiersistemas)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **⏲️**
+- [N/A]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
